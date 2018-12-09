@@ -94,8 +94,8 @@ func:
         movl $0x0f, %eax
         push %ebx
         movl $0x125 %ecx
-
         int $0x80
+        
         movl $0x01, %eax
         movl $0x00, %ebx
         int $0x80
