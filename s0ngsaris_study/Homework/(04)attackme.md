@@ -1,6 +1,6 @@
 # 상준이가 문제 줌#4
 
-![ScreenShot](D:\git\CTF_Writeup\s0ngsaris_study\Homework\image\sc1.JPG)  
+![ScreenShot](CTF_Writeup/s0ngsaris_study/Homework/image/sc1.JPG)  
 
 ---
 
